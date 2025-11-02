@@ -1,3 +1,5 @@
 Hi git Sync
 
-This is the first edit 
+This is the first edit
+
+This line is edited in Ubuntu 
